@@ -1,12 +1,3 @@
-# Welcome to HTML 5!
----
-## There are 4 folders. Each with different assignments to practice
+# Hello
 
-**The 4th folder will be due for homework.**
-
-
-#### Skills Covered
-- Console Commands
-- Markdown
-- Git
-- HTML
+This is my repository for the TCP Fall 2021 Infosyse class. It will *(should)* have all of my assignments for the course!
